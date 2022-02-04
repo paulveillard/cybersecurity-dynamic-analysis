@@ -88,3 +88,17 @@ Here we provide a list of vulnerability scanning tools currently available in th
 | Website Security Check                          | CyberAnt              | Commercial          | SaaS                                | 20% off with OWASP20                                                                                                                                |
 | WPScan                                          | WPScan Team           | Commercial          | Linux and Mac                       | Free options                                                                                                                                        |
 | Zed Attack Proxy                                | OWASP                 | Open Source         | Windows, Unix/Linux, and Macintosh  | Apache-2.0                                                                                                                                          |
+
+
+
+
+
+
+###References
+- SAST Tools - OWASP page with similar information on Static Application Security Testing (SAST) Tools
+- Free for Open Source Application Security Tools - OWASP page that lists the Commercial Dynamic Application Security Testing (DAST) tools we know of that are free for Open Source
+- http://sectooladdict.blogspot.com/ - Web Application Vulnerability Scanner Evaluation Project (WAVSEP)
+- http://projects.webappsec.org/Web-Application-Security-Scanner-Evaluation-Criteria - v1.0 (2009)
+- http://www.slideshare.net/lbsuto/accuracy-and-timecostsofwebappscanners - White Paper: Analyzing the Accuracy and Time Costs of WebApplication Security Scanners - By Larry Suto (2010)
+- http://samate.nist.gov/index.php/Web_Application_Vulnerability_Scanners.html - NIST home page which links to: NIST Special Publication 500-269: Software Assurance Tools: Web Application Security Scanner Functional Specification Version 1.0 (21 August, 2007)
+- http://www.softwareqatest.com/qatweb1.html#SECURITY - A list of Web Site Security Test Tools. (Has both DAST and SAST tools)
