@@ -1,10 +1,14 @@
-## Vulnerability Scanning Tools
+## OWASP / Vulnerability Scanning Tools
 
 > Web Application Vulnerability Scanners are automated tools that scan web applications, normally from the outside, to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration. 
 
 This category of tools is frequently referred to as Dynamic Application Security Testing (DAST) Tools. A large number of both commercial and open source tools of this type are available and all of these tools have their own strengths and weaknesses. If you are interested in the effectiveness of DAST tools, check out the OWASP Benchmark project, which is scientifically measuring the effectiveness of all types of vulnerability detection tools, including DAST.
 
 Here we provide a list of vulnerability scanning tools currently available in the market.
+
+> Disclaimer: The tools listing in the table below are presented in alphabetical order. OWASP does not endorse any of the Vendors or Scanning Tools by listing them in the table below.
+
+OWASP is aware of the Web Application Vulnerability Scanner Evaluation Project (WAVSEP). WAVSEP is completely unrelated to OWASP and we do not endorse its results, nor any of the DAST tools it evaluates. However, the results provided by WAVSEP may be helpful to someone interested in researching or selecting free and/or commercial DAST tools for their projects. This project has far more detail on DAST tools and their features than this OWASP DAST page.
 
 |                    Name/Link                    |         Owner         |       License       |              Platforms              |                                                                         Note                                                                        |
 |:-----------------------------------------------:|:---------------------:|:-------------------:|:-----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
