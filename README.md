@@ -1,4 +1,4 @@
-# Dynamic Application Security Testing (DAST)
+# Dynamic Analysis
 
 # Table of Contents
 
