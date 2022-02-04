@@ -6,93 +6,85 @@ This category of tools is frequently referred to as Dynamic Application Security
 
 Here we provide a list of vulnerability scanning tools currently available in the market.
 
-Tools Listing
-Name/Link	Owner	License	Platforms	Note
-Abbey Scan	MisterScanner	Commercial	SaaS	
-Acunetix	Acunetix	Commercial	Windows, Linux, MacOS	Free (Limited Capability)
-APIsec	APIsec	Commercial	SaaS	Free limited API Pen Test
-App Scanner	Trustwave	Commercial	Windows	
-AppCheck Ltd.	AppCheck Ltd.	Commercial	SaaS	Free trial scan available
-AppScan	HCL Software	Commercial	Windows	
-AppScan on Cloud	HCL Software	Commercial	SaaS	
-AppSpider	Rapid7	Commercial	Windows	
-AppTrana Website Security Scan	AppTrana	Free	SaaS	
-Arachni	Arachni	Free	Most platforms supported	Free for most use cases
-Astra Security Suite	Astra Security	Free	SaaS	Paid Option Available
-Beagle Security	Beagle Security	Commercial	SaaS	Free (Limited Capability)
-beSECURE (formerly AVDS)	Beyond Security	Commercial	SaaS	Free (Limited Capability)
-BlueClosure BC Detect	BlueClosure	Commercial	Most platforms supported	2 week trial
-BREACHLOCK Dynamic Application Security Testing	BREACHLOCK	Commercial	SaaS	
-Burp Suite	PortSwiger	Commercial	Most platforms supported	Free (Limited Capability)
-CloudDefense	CloudDefense	Commercial	SaaS or On-Premises	CloudDefense DAST integrates with any CI/CD with just 1 line of code. It supports multiple authentication types. Perform deep DAST scans with ease.
-Contrast	Contrast Security	Commercial	SaaS or On-Premises	Free (Full featured for 1 App)
-Crashtest Security	Crashtest Security	Commercial	SaaS or On-Premises	
-Cyber Chief	Audacix	Commercial	SaaS or On-Premises	
-Deepfence ThreatMapper	Deepfence	Open Source	Linux	Apache v2
-Deepfence ThreatStryker	Deepfence	Commercial	Linux, Windows	
-Detectify	Detectify	Commercial	SaaS	
-Digifort- Inspect	Digifort	Commercial	SaaS	
-Edgescan	Edgescan	Commercial	SaaS	
-GamaScan	GamaSec	Commercial	Windows	
-GoLismero	GoLismero Team	Open Source	Windows, Linux and Macintosh	GPLv2.0
-Grabber	Romain Gaucher	Open Source	Python 2.4, BeautifulSoup and PyXML	
-Grendel-Scan	David Byrne	Open Source	Windows, Linux and Macintosh	
-HostedScan.com	HostedScan.com	Commercial	SaaS	Free Forever
-IKare	ITrust	Commercial	N/A	
-ImmuniWeb	High-Tech Bridge	Commercial	SaaS	Free (Limited Capability)
-Indusface Web Application Scanning	Indusface	Commercial	SaaS	Free trial available
-InsightVM	Rapid7	Commercial	SaaS	Free trial available
-Intruder	Intruder Ltd.	Commercial		
-IOTHREAT	IOTHREAT	Commercial	SaaS	Free (View Partial Results). Full report (PRO) - 50% discount for the OWASP community with 'OWASP50'.
-K2 Security Platform	K2 Cyber Security	Commercial	SaaS/On-Premise	Free trial available
-Mayhem for API	ForAllSecure	Commercial	SaaS	30-day Free Trial
-N-Stealth	N-Stalker	Commercial	Windows	
-Nessus	Tenable	Commercial	Windows	
-Netsparker	Netsparker	Commercial	Windows	
-Nexploit	NeuraLegion	Commercial	SaaS	
-Nexpose	Rapid7	Commercial	Windows/Linux	Free (Limited Capability)
-Nikto	CIRT	Open Source	Unix/Linux	
-Nmmapper Tool Collections	Nmmapper	Commercial	SasS	Great Collection of Kali Tool hosted online
-Nuclei	ProjectDiscovery	Open Source	Windows, Unix/Linux, and Macintosh	Fast and customisable vulnerability scanner based on simple YAML based DSL.
-OpenVAS by Greenbone	greenbone	Open Source	Linux	Open source full-featured vulnerability scanner, developed and maintained by Greenbone Networks GmbH.
-Probely	Probely	Commercial	SaaS	Free (Limited Capability)
-Proxy.app	Websecurify	Commercial	Macintosh	
-purpleteam	OWASP	Open Source	CLI and SaaS	GNU-AGPL v3
-QualysGuard	Qualys	Commercial	N/A	
-ReconwithMe	Nassec	Commercial	SaaS	Paid Option Available
-Retina	BeyondTrust	Commercial	Windows	
-Ride (REST JSON Payload fuzzer)	Adobe, Inc.	Open Source	Linux / Mac / Windows	Apache 2
-ScanRepeat	Ventures CDX	Commercial	SaaS	
-ScanTitan Vulnerability Scanner	ScanTitan	Commercial	SaaS	Free (Limited Capability)
-Sec-helpers	VWT Digital	Open Source or Free	N/A	
-SecPoint Penetrator	SecPoint	Commercial	N/A	
-Security For Everyone	Security For Everyone	Commercial	SaaS	Free (Limited Capability)
-Securus	Orvant, Inc	Commercial	N/A	
-Sentinel	WhiteHat Security	Commercial	N/A	
-SmartScanner	SmartScanner	Commercial	Windows	Free (Limited Capability)
-SOATest	Parasoft	Commercial	Windows / Linux / Solaris	
-StackHawk	StackHawk	Commercial	SaaS	
-Tinfoil Security	Synopsys	Commercial	SaaS or On-Premises	Free (Limited Capability)
-Trustkeeper Scanner	Trustwave SpiderLabs	Commercial	SaaS	
-Vega	Subgraph	Open Source	Windows, Linux and Macintosh	
-Vex	UBsecure	Commercial	Windows	
-w3af	w3af.org	Open Source	Linux and Mac	GPLv2.0
-Wapiti	Informática Gesfor	Open Source	Windows, Unix/Linux and Macintosh	
-Web Security Scanner	DefenseCode	Commercial	On-Premises	
-WebApp360	TripWire	Commercial	Windows	
-WebCookies	WebCookies	Free	SaaS	
-WebInspect	Micro Focus	Commercial	Windows	
-WebReaver	Websecurify	Commercial	Macintosh	
-WebScanService	German Web Security	Commercial	N/A	
-Websecurify Suite	Websecurify	Commercial	Windows, Linux, Macintosh	Free (Limited Capability)
-Website Security Check	CyberAnt	Commercial	SaaS	20% off with OWASP20
-WPScan	WPScan Team	Commercial	Linux and Mac	Free options
-Zed Attack Proxy	OWASP	Open Source	Windows, Unix/Linux, and Macintosh	Apache-2.0
-References
-SAST Tools - OWASP page with similar information on Static Application Security Testing (SAST) Tools
-Free for Open Source Application Security Tools - OWASP page that lists the Commercial Dynamic Application Security Testing (DAST) tools we know of that are free for Open Source
-http://sectooladdict.blogspot.com/ - Web Application Vulnerability Scanner Evaluation Project (WAVSEP)
-http://projects.webappsec.org/Web-Application-Security-Scanner-Evaluation-Criteria - v1.0 (2009)
-http://www.slideshare.net/lbsuto/accuracy-and-timecostsofwebappscanners - White Paper: Analyzing the Accuracy and Time Costs of WebApplication Security Scanners - By Larry Suto (2010)
-http://samate.nist.gov/index.php/Web_Application_Vulnerability_Scanners.html - NIST home page which links to: NIST Special Publication 500-269: Software Assurance Tools: Web Application Security Scanner Functional Specification Version 1.0 (21 August, 2007)
-http://www.softwareqatest.com/qatweb1.html#SECURITY - A list of Web Site Security Test Tools. (Has both DAST and SAST tools)
+|                    Name/Link                    |         Owner         |       License       |              Platforms              |                                                                         Note                                                                        |
+|:-----------------------------------------------:|:---------------------:|:-------------------:|:-----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Abbey Scan                                      | MisterScanner         | Commercial          | SaaS                                |                                                                                                                                                     |
+| Acunetix                                        | Acunetix              | Commercial          | Windows, Linux, MacOS               | Free (Limited Capability)                                                                                                                           |
+| APIsec                                          | APIsec                | Commercial          | SaaS                                | Free limited API Pen Test                                                                                                                           |
+| App Scanner                                     | Trustwave             | Commercial          | Windows                             |                                                                                                                                                     |
+| AppCheck Ltd.                                   | AppCheck Ltd.         | Commercial          | SaaS                                | Free trial scan available                                                                                                                           |
+| AppScan                                         | HCL Software          | Commercial          | Windows                             |                                                                                                                                                     |
+| AppScan on Cloud                                | HCL Software          | Commercial          | SaaS                                |                                                                                                                                                     |
+| AppSpider                                       | Rapid7                | Commercial          | Windows                             |                                                                                                                                                     |
+| AppTrana Website Security Scan                  | AppTrana              | Free                | SaaS                                |                                                                                                                                                     |
+| Arachni                                         | Arachni               | Free                | Most platforms supported            | Free for most use cases                                                                                                                             |
+| Astra Security Suite                            | Astra Security        | Free                | SaaS                                | Paid Option Available                                                                                                                               |
+| Beagle Security                                 | Beagle Security       | Commercial          | SaaS                                | Free (Limited Capability)                                                                                                                           |
+| beSECURE (formerly AVDS)                        | Beyond Security       | Commercial          | SaaS                                | Free (Limited Capability)                                                                                                                           |
+| BlueClosure BC Detect                           | BlueClosure           | Commercial          | Most platforms supported            | 2 week trial                                                                                                                                        |
+| BREACHLOCK Dynamic Application Security Testing | BREACHLOCK            | Commercial          | SaaS                                |                                                                                                                                                     |
+| Burp Suite                                      | PortSwiger            | Commercial          | Most platforms supported            | Free (Limited Capability)                                                                                                                           |
+| CloudDefense                                    | CloudDefense          | Commercial          | SaaS or On-Premises                 | CloudDefense DAST integrates with any CI/CD with just 1 line of code. It supports multiple authentication types. Perform deep DAST scans with ease. |
+| Contrast                                        | Contrast Security     | Commercial          | SaaS or On-Premises                 | Free (Full featured for 1 App)                                                                                                                      |
+| Crashtest Security                              | Crashtest Security    | Commercial          | SaaS or On-Premises                 |                                                                                                                                                     |
+| Cyber Chief                                     | Audacix               | Commercial          | SaaS or On-Premises                 |                                                                                                                                                     |
+| Deepfence ThreatMapper                          | Deepfence             | Open Source         | Linux                               | Apache v2                                                                                                                                           |
+| Deepfence ThreatStryker                         | Deepfence             | Commercial          | Linux, Windows                      |                                                                                                                                                     |
+| Detectify                                       | Detectify             | Commercial          | SaaS                                |                                                                                                                                                     |
+| Digifort- Inspect                               | Digifort              | Commercial          | SaaS                                |                                                                                                                                                     |
+| Edgescan                                        | Edgescan              | Commercial          | SaaS                                |                                                                                                                                                     |
+| GamaScan                                        | GamaSec               | Commercial          | Windows                             |                                                                                                                                                     |
+| GoLismero                                       | GoLismero Team        | Open Source         | Windows, Linux and Macintosh        | GPLv2.0                                                                                                                                             |
+| Grabber                                         | Romain Gaucher        | Open Source         | Python 2.4, BeautifulSoup and PyXML |                                                                                                                                                     |
+| Grendel-Scan                                    | David Byrne           | Open Source         | Windows, Linux and Macintosh        |                                                                                                                                                     |
+| HostedScan.com                                  | HostedScan.com        | Commercial          | SaaS                                | Free Forever                                                                                                                                        |
+| IKare                                           | ITrust                | Commercial          | N/A                                 |                                                                                                                                                     |
+| ImmuniWeb                                       | High-Tech Bridge      | Commercial          | SaaS                                | Free (Limited Capability)                                                                                                                           |
+| Indusface Web Application Scanning              | Indusface             | Commercial          | SaaS                                | Free trial available                                                                                                                                |
+| InsightVM                                       | Rapid7                | Commercial          | SaaS                                | Free trial available                                                                                                                                |
+| Intruder                                        | Intruder Ltd.         | Commercial          |                                     |                                                                                                                                                     |
+| IOTHREAT                                        | IOTHREAT              | Commercial          | SaaS                                | Free (View Partial Results). Full report (PRO) - 50% discount for the OWASP community with 'OWASP50'.                                               |
+| K2 Security Platform                            | K2 Cyber Security     | Commercial          | SaaS/On-Premise                     | Free trial available                                                                                                                                |
+| Mayhem for API                                  | ForAllSecure          | Commercial          | SaaS                                | 30-day Free Trial                                                                                                                                   |
+| N-Stealth                                       | N-Stalker             | Commercial          | Windows                             |                                                                                                                                                     |
+| Nessus                                          | Tenable               | Commercial          | Windows                             |                                                                                                                                                     |
+| Netsparker                                      | Netsparker            | Commercial          | Windows                             |                                                                                                                                                     |
+| Nexploit                                        | NeuraLegion           | Commercial          | SaaS                                |                                                                                                                                                     |
+| Nexpose                                         | Rapid7                | Commercial          | Windows/Linux                       | Free (Limited Capability)                                                                                                                           |
+| Nikto                                           | CIRT                  | Open Source         | Unix/Linux                          |                                                                                                                                                     |
+| Nmmapper Tool Collections                       | Nmmapper              | Commercial          | SasS                                | Great Collection of Kali Tool hosted online                                                                                                         |
+| Nuclei                                          | ProjectDiscovery      | Open Source         | Windows, Unix/Linux, and Macintosh  | Fast and customisable vulnerability scanner based on simple YAML based DSL.                                                                         |
+| OpenVAS by Greenbone                            | greenbone             | Open Source         | Linux                               | Open source full-featured vulnerability scanner, developed and maintained by Greenbone Networks GmbH.                                               |
+| Probely                                         | Probely               | Commercial          | SaaS                                | Free (Limited Capability)                                                                                                                           |
+| Proxy.app                                       | Websecurify           | Commercial          | Macintosh                           |                                                                                                                                                     |
+| purpleteam                                      | OWASP                 | Open Source         | CLI and SaaS                        | GNU-AGPL v3                                                                                                                                         |
+| QualysGuard                                     | Qualys                | Commercial          | N/A                                 |                                                                                                                                                     |
+| ReconwithMe                                     | Nassec                | Commercial          | SaaS                                | Paid Option Available                                                                                                                               |
+| Retina                                          | BeyondTrust           | Commercial          | Windows                             |                                                                                                                                                     |
+| Ride (REST JSON Payload fuzzer)                 | Adobe, Inc.           | Open Source         | Linux / Mac / Windows               | Apache 2                                                                                                                                            |
+| ScanRepeat                                      | Ventures CDX          | Commercial          | SaaS                                |                                                                                                                                                     |
+| ScanTitan Vulnerability Scanner                 | ScanTitan             | Commercial          | SaaS                                | Free (Limited Capability)                                                                                                                           |
+| Sec-helpers                                     | VWT Digital           | Open Source or Free | N/A                                 |                                                                                                                                                     |
+| SecPoint Penetrator                             | SecPoint              | Commercial          | N/A                                 |                                                                                                                                                     |
+| Security For Everyone                           | Security For Everyone | Commercial          | SaaS                                | Free (Limited Capability)                                                                                                                           |
+| Securus                                         | Orvant, Inc           | Commercial          | N/A                                 |                                                                                                                                                     |
+| Sentinel                                        | WhiteHat Security     | Commercial          | N/A                                 |                                                                                                                                                     |
+| SmartScanner                                    | SmartScanner          | Commercial          | Windows                             | Free (Limited Capability)                                                                                                                           |
+| SOATest                                         | Parasoft              | Commercial          | Windows / Linux / Solaris           |                                                                                                                                                     |
+| StackHawk                                       | StackHawk             | Commercial          | SaaS                                |                                                                                                                                                     |
+| Tinfoil Security                                | Synopsys              | Commercial          | SaaS or On-Premises                 | Free (Limited Capability)                                                                                                                           |
+| Trustkeeper Scanner                             | Trustwave SpiderLabs  | Commercial          | SaaS                                |                                                                                                                                                     |
+| Vega                                            | Subgraph              | Open Source         | Windows, Linux and Macintosh        |                                                                                                                                                     |
+| Vex                                             | UBsecure              | Commercial          | Windows                             |                                                                                                                                                     |
+| w3af                                            | w3af.org              | Open Source         | Linux and Mac                       | GPLv2.0                                                                                                                                             |
+| Wapiti                                          | Informática Gesfor    | Open Source         | Windows, Unix/Linux and Macintosh   |                                                                                                                                                     |
+| Web Security Scanner                            | DefenseCode           | Commercial          | On-Premises                         |                                                                                                                                                     |
+| WebApp360                                       | TripWire              | Commercial          | Windows                             |                                                                                                                                                     |
+| WebCookies                                      | WebCookies            | Free                | SaaS                                |                                                                                                                                                     |
+| WebInspect                                      | Micro Focus           | Commercial          | Windows                             |                                                                                                                                                     |
+| WebReaver                                       | Websecurify           | Commercial          | Macintosh                           |                                                                                                                                                     |
+| WebScanService                                  | German Web Security   | Commercial          | N/A                                 |                                                                                                                                                     |
+| Websecurify Suite                               | Websecurify           | Commercial          | Windows, Linux, Macintosh           | Free (Limited Capability)                                                                                                                           |
+| Website Security Check                          | CyberAnt              | Commercial          | SaaS                                | 20% off with OWASP20                                                                                                                                |
+| WPScan                                          | WPScan Team           | Commercial          | Linux and Mac                       | Free options                                                                                                                                        |
+| Zed Attack Proxy                                | OWASP                 | Open Source         | Windows, Unix/Linux, and Macintosh  | Apache-2.0                                                                                                                                          |
