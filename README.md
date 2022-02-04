@@ -1,6 +1,9 @@
-# Dynamic Analysis
+# Dynamic Analysis Tools
 
-# Table of Contents
+
+## What is Dynamic Analysis?
+
+## Table of Contents
 
 #### [Programming Languages](#programming-languages-1)
 
