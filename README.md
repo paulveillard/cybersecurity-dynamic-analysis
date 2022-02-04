@@ -1,1 +1,1 @@
-# cybersecurity-DAST
+# Dynamic Application Security Testing (DAST)
