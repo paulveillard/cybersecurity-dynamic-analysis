@@ -96,9 +96,7 @@ OWASP is aware of the Web Application Vulnerability Scanner Evaluation Project (
 
 
 
-
-
-###References
+## References
 - SAST Tools - OWASP page with similar information on Static Application Security Testing (SAST) Tools
 - Free for Open Source Application Security Tools - OWASP page that lists the Commercial Dynamic Application Security Testing (DAST) tools we know of that are free for Open Source
 - http://sectooladdict.blogspot.com/ - Web Application Vulnerability Scanner Evaluation Project (WAVSEP)
@@ -106,3 +104,13 @@ OWASP is aware of the Web Application Vulnerability Scanner Evaluation Project (
 - http://www.slideshare.net/lbsuto/accuracy-and-timecostsofwebappscanners - White Paper: Analyzing the Accuracy and Time Costs of WebApplication Security Scanners - By Larry Suto (2010)
 - http://samate.nist.gov/index.php/Web_Application_Vulnerability_Scanners.html - NIST home page which links to: NIST Special Publication 500-269: Software Assurance Tools: Web Application Security Scanner Functional Specification Version 1.0 (21 August, 2007)
 - http://www.softwareqatest.com/qatweb1.html#SECURITY - A list of Web Site Security Test Tools. (Has both DAST and SAST tools)
+
+
+**[`^        back to top        ^`](#)**
+
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
