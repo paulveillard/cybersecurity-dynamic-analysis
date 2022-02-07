@@ -7,6 +7,8 @@
 
 The primary advantage of dynamic analysis: It reveals subtle defects or vulnerabilities whose cause is too complex to be discovered by static analysis. Dynamic analysis can play a role in security assurance, but its primary goal is finding and debugging errors.
 
+![dynamic](https://github.com/paulveillard/cybersecurity-dynamic-analysis/blob/main/img/Application-Security-Testing.png)
+
 ## Table of Contents
 
 #### [Programming Languages](#programming-languages-1)
