@@ -3,6 +3,7 @@
 
 
 ## What is Dynamic Analysis?
+[Dynamic analysis](https://www.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top/getting-started/dynamic-analysis-vs-static-analysis.html) is the testing and evaluation of an application during runtime.
 
 ## Table of Contents
 
