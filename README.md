@@ -2,7 +2,7 @@
 > An ongoing & curated collection of awesome vulnerability scanning software, libraries and frameworks, best guidelines and technical resources and most important dynamic application security testing (DAST)
 
 
-## What is Dynamic Analysis?
+## `What is Dynamic Analysis?`
 [Dynamic analysis](https://www.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top/getting-started/dynamic-analysis-vs-static-analysis.html) is the testing and evaluation of an application during runtime.
 
 ![dast](https://github.com/paulveillard/cybersecurity-dynamic-analysis/blob/main/img/dast-pipelines.png)
@@ -11,7 +11,7 @@ The primary advantage of dynamic analysis: It reveals subtle defects or vulnerab
 
 ![dynamic](https://github.com/paulveillard/cybersecurity-dynamic-analysis/blob/main/img/Application-Security-Testing.png)
 
-## Table of Contents
+## `Table of Contents`
 
 #### [Programming Languages](#programming-languages-1)
 
@@ -50,7 +50,7 @@ The primary advantage of dynamic analysis: It reveals subtle defects or vulnerab
 
 ---
 
-## Programming Languages
+## `Programming Languages`
 
 <h2 id="dotnet">.NET</h2>
 
