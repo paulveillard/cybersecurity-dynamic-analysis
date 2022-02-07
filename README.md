@@ -5,6 +5,8 @@
 ## What is Dynamic Analysis?
 [Dynamic analysis](https://www.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top/getting-started/dynamic-analysis-vs-static-analysis.html) is the testing and evaluation of an application during runtime.
 
+The primary advantage of dynamic analysis: It reveals subtle defects or vulnerabilities whose cause is too complex to be discovered by static analysis. Dynamic analysis can play a role in security assurance, but its primary goal is finding and debugging errors.
+
 ## Table of Contents
 
 #### [Programming Languages](#programming-languages-1)
